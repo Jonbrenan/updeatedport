@@ -1,0 +1,81 @@
+/* this code is for the header that appears about the navbar */
+.header {
+    background-color: #E1C56B;
+    position: fixed;
+    margin-left: 30px;
+    padding-right: 20px;
+    padding-left: 20px;
+    z-index: 1;
+    text-align: center;
+}
+
+
+
+
+
+.mainBackground {
+    background-color: #A7E2FE;
+}
+
+
+
+.textColor {
+    color: white;
+}
+
+
+
+
+/* dictates color of a sqaure that is located behind the name "Jon Brenan" on the navbar */
+
+.jonBlock {
+    background-color: #FFBD7B;
+    
+}
+
+
+/* dicatates color for various objects and divs in both index and projects pages */
+
+.bgc {
+    background-color: #FFAE5D;
+}
+
+
+/* dictates the color and padding for the container for the cards in the project page */
+
+.projectDiv {
+    padding-bottom: 10px;
+    background-color: #FFAE5D;
+}
+
+
+
+
+
+
+
+/* color for the links */
+
+a {
+    color: purple
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
