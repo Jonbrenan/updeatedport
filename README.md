@@ -8,8 +8,6 @@ I attempted to create a basic layout that would effectivly inform those who visi
 
 I wrote a small "About Me" section to give people an impression of the kind of person and worker I am.
 
-I did some extra work as well to make the site look more appealing, specifically the gifs I created on the project page. I thought
-this would show employers that I have a sense of style and some extra skills to spice things up.
 
 There weren't too many challanges with the assignment. The only real trouble I had was re-learning some of the basic properties about
 Bootstrap and how to divide everything into rows and coloumns.
@@ -21,11 +19,11 @@ Bootstrap and how to divide everything into rows and coloumns.
 Installation
 
 to install the application, one would go to the github link provoided in this README, download the link and run.
-link: https://github.com/Jonbrenan/homework6
+link: https://github.com/Jonbrenan/updeatedport
 
 ![This is what the user will see when they open the website!](gifs/portfoliodiv.jpg)
 
-![Picture of applicatipon!](gifs/mainpage.png)
+![Picture of applicatipon!](gifs/gitpage.jpg)
 
 
 License
